@@ -1,0 +1,12 @@
+.categories-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px 0px;
+}
